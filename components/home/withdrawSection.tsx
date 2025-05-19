@@ -14,10 +14,10 @@ export default function Withdraw() {
   return (
     <View>
       <View className="p-4">
-        <Text className="text-base font-medium mb-1">
+        <Text className="text-base font-inter-semibold mb-1">
           Choose amount to withdraw
         </Text>
-        <Text className="text-sm text-gray-600 mb-4">
+        <Text className="text-sm font-inter text-gray-600 mb-4">
           Withdraw up to the available amount without exiting your algorithmic
           portfolio.
         </Text>
